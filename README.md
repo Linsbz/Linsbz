@@ -1,10 +1,12 @@
 ## Olá, me chamo Lincoln! 👋
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&theme=crt">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&theme=crt">
-</picture>
+<div>
+  <picture decoding="async" loading="lazy">
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&theme=crt">
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&screen_effect=true&theme=blue_chill">
+    <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&theme=crt">
+  </picture>
+</div>
 <!--
 **Linsbz/Linsbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
