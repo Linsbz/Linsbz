@@ -1,7 +1,10 @@
 ## Olá, me chamo Lincoln! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Linsbz)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&theme=crt">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&screen_effect=true&theme=blue_chill">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?Linsbz=<Linsbz>&theme=crt">
+</picture>
 <!--
 **Linsbz/Linsbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
