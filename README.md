@@ -49,9 +49,11 @@ Tenho perfil analítico, forte capacidade de resolução de problemas e mentalid
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Linsbz&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linsbz&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Linsbz&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linsbz&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
+![Snake animation](https://github.com/Linsbz/Linsbz/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
